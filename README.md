@@ -16,6 +16,6 @@ By completing this project, I will have demonstrated:
 ## 📚 Learning Journey  
 This project is part of my **web development journey** as I work through **The Odin Project**. Stay tuned for updates as I continue learning and improving!  
 
-🔗 [Preview](dagimed.github.io/Odin-recipes) 
+🔗 [Preview]((https://dagimed.github.io/Odin-recipes/)) 
 
 🔗 [The Odin Project](https://www.theodinproject.com/)  
